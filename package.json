@@ -1,0 +1,27 @@
+{
+  "name": "express-starter-template",
+  "version": "1.0.0",
+  "description": "Simple Express Starting Template.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markjerner/express-starter-template.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "MK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markjerner/express-starter-template/issues"
+  },
+  "homepage": "https://github.com/markjerner/express-starter-template#readme"
+}
